@@ -1,10 +1,14 @@
 # BALSAS
 
-### The voice you had before AI. Recovered, and handed back.
+### Become your voice in the AI world.
 
 Your old posts are a running diary of how you actually sounded — written
 before AI existed, and no longer growing. BALSAS reads that archive on
 your own machine and hands your AI a file that teaches it your voice.
+
+Not a filter that strips the AI tells out of your writing. The other
+direction: your own voice, working in the place where you now do your
+writing.
 
 Facebook, Twitter/X, Instagram, or any export you can get into a table.
 
@@ -50,6 +54,19 @@ Never write, in her name: "blessed," "grateful," "journey,"
 ```
 
 Paste it into Claude, ChatGPT, or anything that reads a system prompt.
+
+## Why a model cannot do this for you
+
+You cannot refine a voice on synthetic data. If an AI writes in your
+style and then learns from its own output, nothing new about you has
+entered the loop — it is a copy of a copy, and it drifts. The only
+source of fresh signal is a person who actually wrote something, and who
+reacts to what comes back.
+
+So BALSAS measures the writing you really did, instead of generating
+imitations of it. And the ten minutes of review below are yours because
+they have to be: you are not in the loop for reassurance.
+**The loop has no signal without you.**
 
 ## Three steps, ten minutes
 
