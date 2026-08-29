@@ -12,7 +12,7 @@ writing.
 
 Facebook, Twitter/X, Instagram, or any export you can get into a table.
 
-**[Get BALSAS — $29](https://buy.polar.sh/polar_cl_gW7yXGZz70KRkQTeLspcb61kZSrThlA379QzJ1M0Rv5)** · one-time, no subscription
+*In final testing. Back shortly — $29, one-time, no subscription.*
 
 ---
 
@@ -109,7 +109,7 @@ you approve the portrait.
 
 ## Get it
 
-**[BALSAS — $29](https://buy.polar.sh/polar_cl_gW7yXGZz70KRkQTeLspcb61kZSrThlA379QzJ1M0Rv5)**
+*In final testing. Back shortly.*
 
 Full source included, MIT — audit it, change it, keep it. Not a
 subscription and not a service; there is nothing to cancel and nothing
